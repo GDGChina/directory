@@ -1,7 +1,6 @@
-directory
+Gits
 =========
 
-Gits  
 Beijing:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/gdgbeijing  
 Shanghai:&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/gdgshanghai  
 Guangzhou:  
