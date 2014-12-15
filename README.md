@@ -19,3 +19,4 @@ Urumqi:
 Chengdu:  
 Suzhou:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/gdgsuzhou  
 Tianjin:  
+Ganzhou:
